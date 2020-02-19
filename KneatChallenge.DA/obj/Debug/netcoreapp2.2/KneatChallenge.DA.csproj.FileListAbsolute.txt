@@ -1,0 +1,11 @@
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\bin\Debug\netcoreapp2.2\KneatChallenge.DA.deps.json
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\bin\Debug\netcoreapp2.2\KneatChallenge.DA.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\bin\Debug\netcoreapp2.2\KneatChallenge.DA.pdb
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\bin\Debug\netcoreapp2.2\KneatChallenge.Models.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\bin\Debug\netcoreapp2.2\KneatChallenge.Models.pdb
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.csprojAssemblyReference.cache
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.AssemblyInfoInputs.cache
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.AssemblyInfo.cs
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.csproj.CopyComplete
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.DA\obj\Debug\netcoreapp2.2\KneatChallenge.DA.pdb

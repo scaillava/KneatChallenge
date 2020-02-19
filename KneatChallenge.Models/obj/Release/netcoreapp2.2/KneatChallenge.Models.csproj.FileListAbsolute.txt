@@ -1,0 +1,8 @@
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Release\netcoreapp2.2\KneatChallenge.Models.deps.json
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Release\netcoreapp2.2\KneatChallenge.Models.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Release\netcoreapp2.2\KneatChallenge.Models.pdb
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Release\netcoreapp2.2\KneatChallenge.Models.csprojAssemblyReference.cache
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Release\netcoreapp2.2\KneatChallenge.Models.AssemblyInfoInputs.cache
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Release\netcoreapp2.2\KneatChallenge.Models.AssemblyInfo.cs
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Release\netcoreapp2.2\KneatChallenge.Models.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Release\netcoreapp2.2\KneatChallenge.Models.pdb

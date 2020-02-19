@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KneatChallenge.ConsoleApp", "KneatChallenge\KneatChallenge.ConsoleApp.csproj", "{6B9FCC73-E082-4CF6-9C45-A95A522E1506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KneatChallenge.DA", "KneatChallenge.DA\KneatChallenge.DA.csproj", "{7C94EFD8-8F7C-441D-826A-2BCEF8D56FCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KneatChallenge.Models", "KneatChallenge.Models\KneatChallenge.Models.csproj", "{F524F930-8B0A-4A03-A23C-322580C1A542}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KneatChallenge.Tests", "KneatChallenge.Tests\KneatChallenge.Tests.csproj", "{134A451A-6E62-46A7-B47C-EB81E5C34A23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KneatChallenge.Services", "KneatChallenge.Services\KneatChallenge.Services.csproj", "{11C31337-D7D1-4898-8805-0F55D6195CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9FCC73-E082-4CF6-9C45-A95A522E1506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9FCC73-E082-4CF6-9C45-A95A522E1506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9FCC73-E082-4CF6-9C45-A95A522E1506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9FCC73-E082-4CF6-9C45-A95A522E1506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C94EFD8-8F7C-441D-826A-2BCEF8D56FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C94EFD8-8F7C-441D-826A-2BCEF8D56FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C94EFD8-8F7C-441D-826A-2BCEF8D56FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C94EFD8-8F7C-441D-826A-2BCEF8D56FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F524F930-8B0A-4A03-A23C-322580C1A542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F524F930-8B0A-4A03-A23C-322580C1A542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F524F930-8B0A-4A03-A23C-322580C1A542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F524F930-8B0A-4A03-A23C-322580C1A542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134A451A-6E62-46A7-B47C-EB81E5C34A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134A451A-6E62-46A7-B47C-EB81E5C34A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134A451A-6E62-46A7-B47C-EB81E5C34A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134A451A-6E62-46A7-B47C-EB81E5C34A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C31337-D7D1-4898-8805-0F55D6195CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C31337-D7D1-4898-8805-0F55D6195CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C31337-D7D1-4898-8805-0F55D6195CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C31337-D7D1-4898-8805-0F55D6195CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71A1BF9-88C2-48DD-B2CC-072FA5726897}
+	EndGlobalSection
+EndGlobal

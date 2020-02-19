@@ -1,0 +1,7 @@
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Debug\netcoreapp2.2\KneatChallenge.Models.deps.json
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Debug\netcoreapp2.2\KneatChallenge.Models.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\bin\Debug\netcoreapp2.2\KneatChallenge.Models.pdb
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Debug\netcoreapp2.2\KneatChallenge.Models.AssemblyInfoInputs.cache
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Debug\netcoreapp2.2\KneatChallenge.Models.AssemblyInfo.cs
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Debug\netcoreapp2.2\KneatChallenge.Models.dll
+D:\KneatChallenge\KneatChallenge\KneatChallenge.Models\obj\Debug\netcoreapp2.2\KneatChallenge.Models.pdb
