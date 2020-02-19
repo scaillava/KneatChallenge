@@ -6,6 +6,8 @@ Challenge Kneat
 This is a console application that has the function of displaying spacecraft information and calculating the number of stops needed to make a distance for each ship.
 The app consume an API at: https://swapi.co/
 
+Requirements
+•	Net core 2.2
 
 Installation
 
