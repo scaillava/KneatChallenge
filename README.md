@@ -9,12 +9,10 @@ The app consume an API at: https://swapi.co/
 
 Installation
 
-•	Publish and execute the file KneatChallenge.ConsoleApp.exe  file
+•	Publish the KneatChallenge.ConsoleApp, in the publish folder execute the file "KneatChallenge.ConsoleApp.exe" 
 •	The API URI can be updated in the file "appsettings.json"
-
  
 Manual
-
 
 The app has 2 functions:
 1.	Show information for each Starships, the information is composed of:
